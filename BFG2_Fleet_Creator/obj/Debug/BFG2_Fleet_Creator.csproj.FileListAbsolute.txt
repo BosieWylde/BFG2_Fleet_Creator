@@ -1,0 +1,14 @@
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\bin\Debug\BFG2_Fleet_Creator.exe.config
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\bin\Debug\BFG2_Fleet_Creator.exe
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\bin\Debug\BFG2_Fleet_Creator.pdb
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.csprojAssemblyReference.cache
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.Form1.resources
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.Properties.Resources.resources
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.csproj.GenerateResource.cache
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.csproj.CoreCompileInputs.cache
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.exe
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.pdb
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\bin\Debug\BFG2_Fleet_Creator.exe.manifest
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\bin\Debug\BFG2_Fleet_Creator.application
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.exe.manifest
+C:\Users\fusio\source\repos\BFG2_Fleet_Creator\BFG2_Fleet_Creator\obj\Debug\BFG2_Fleet_Creator.application
